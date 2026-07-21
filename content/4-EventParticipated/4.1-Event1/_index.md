@@ -117,3 +117,6 @@ This event was both informative and inspiring.
 Besides learning practical AWS and AI knowledge, I had the opportunity to observe real-world cloud architectures, interact with experienced speakers, and better understand the skills expected from future cloud engineers.
 
 Overall, the event reinforced the importance of continuous learning, strong technical foundations, and effective collaboration in a rapidly evolving AI-driven industry.
+---
+
+![Minh chứng sự kiện 4.1 - Ảnh 1](/images/4-eventparticipated/event4.1.jpg)

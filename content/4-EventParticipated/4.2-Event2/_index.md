@@ -112,3 +112,7 @@ This event provided not only technical knowledge but also valuable lessons about
 I realized that confidence is developed through consistent action rather than waiting for perfect preparation. Listening to experienced engineers and successful hackathon participants also broadened my understanding of DevOps culture, cloud engineering, and collaborative software development.
 
 Overall, the event strengthened my motivation to continue improving my AWS knowledge, technical skills, and professional mindset as I pursue a career in Cloud and DevOps engineering.
+
+---
+
+![Minh chứng sự kiện 4.2 - Ảnh 1](/images/4-eventparticipated/6C7A4629.JPG)
