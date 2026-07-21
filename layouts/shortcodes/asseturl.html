@@ -1,0 +1,6 @@
+{{- $path := .Get 0 -}}
+{{- if not $path -}}
+  {{- errorf "shortcode asseturl requires 1 argument: path" -}}
+{{- end -}}
+{{- $normalized := strings.TrimPrefix "/" $path -}}
+{{- $normalized | relURL -}}
