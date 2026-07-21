@@ -1,4 +1,6 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://ryugaruki.github.io/workshop/"
+languageCode = "en-us"
+title = "Workshop"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
