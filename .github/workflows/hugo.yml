@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      HUGO_VERSION: 0.140.2
+      HUGO_VERSION: 0.164.0
 
     steps:
       - uses: actions/checkout@v4
